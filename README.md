@@ -2,6 +2,7 @@
 ##📝 Overview
 
 V1 - Uses macchanger, which reverts your mac to its original state once the loop interval quit. 
+
 V2 - Includes 'all', where you can change the local IP and mac at the same time during the loop. 
 
 Written in C, Python and Bash. 
