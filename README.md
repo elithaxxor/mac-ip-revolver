@@ -156,19 +156,3 @@ CTRL + C
 This project, `mac_changer`, is a utility designed to change the MAC address of a network interface on a Unix-based system. It provides a simple and efficient way to modify the MAC address, which can be useful for various purposes such as network testing, privacy enhancement, or bypassing MAC address-based restrictions.
 
 🤝 Contributing
-
-Have suggestions for improvements? Feel free to fork the repo, create a pull request, or submit an issue!
-
-git clone https://github.com/yourusername/mac-changer-script.git
-
-📜 License
-
-This project is licensed under the MIT License – you are free to use, modify, and distribute it as you like.
-
-📬 Contact
-
-For questions or contributions, reach out via:
-
-GitHub Issues: https://github.com/yourusername/mac-changer-script/issues
-
-Email: your.email@example.com
